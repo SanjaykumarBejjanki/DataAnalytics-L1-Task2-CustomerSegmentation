@@ -1,4 +1,10 @@
+
 # Customer Segmentation using K-Means Clustering
+
+🚀 **Live Demo:**  
+[Click here to try the Customer Segmentation App](https://dataanalytics-l1-task2-customersegmentation-f58ueymcq9mfqjnonv.streamlit.app/)
+
+---
 
 ## 📌 Project Overview
 
